@@ -1,13 +1,13 @@
 # Homebrew Tap for Dashee
 
-This is the official Homebrew Tap for the [Dashee](https://github.com/snehashish/dashee) macOS application.
+This is the official Homebrew Tap for the [Dashee](https://github.com/snehmatic/dashee) macOS application.
 
 ## Installation
 
 You can install Dashee directly via Homebrew by adding this tap:
 
 ```bash
-brew tap snehashish/dashee
+brew tap snehmatic/dashee
 brew install --cask dashee
 ```
 
