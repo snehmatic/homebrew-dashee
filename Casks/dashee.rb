@@ -1,5 +1,5 @@
 cask "dashee" do
-  version "3.0.5"
+  version "3.0.6"
   sha256 :no_check # Update with actual shasum when releasing
 
   # URL would typically point to a GitHub release containing the zipped .app or a DMG
