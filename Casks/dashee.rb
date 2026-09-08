@@ -8,7 +8,7 @@ cask "dashee" do
   desc "Premium Native macOS GUI Dashboard for LiteLLM Pacing & Usage Metrics"
   homepage "https://github.com/snehmatic/dashee"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "Dashee.app"
 
